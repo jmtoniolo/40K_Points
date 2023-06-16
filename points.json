@@ -1,0 +1,22 @@
+{
+"Tyranids": {
+    "Hive Tyrant": {"points": 220, "models": 1},
+    "Broodlord": {"points": 100, "models": 1},
+    "Carnifexes": {"points": 125, "models": 1},
+    "Genestealers": {"points": 90, "models": 5},
+    "Hormagaunts": {"points": 70, "models": 10},
+    "Lictor": {"points": 75, "models": 1},
+    "Mawloc": {"points": 145, "models": 1},
+    "Ripper Swarms": {"points": 35, "models": 3},
+    "Termagants": {"points": 60, "models": 10},
+    "The Swarmlord": {"points": 250, "models": 1},
+    "Tyranid Warriors with Ranged Bio-weapons": {"points": 70, "models": 3},
+    "Tyrant Guard": {"points": 95, "models": 3},
+    "Von Ryans Leapers": {"points": 75, "models": 3},
+    "Barbgaunts": {"points": 50, "models": 5}
+},
+"Space Marines": {
+    "Primaris Lieutenant": {"points": 75, "models": 1},
+    "Infiltrator Squad": {"points": 90, "models": 5}
+}
+}
