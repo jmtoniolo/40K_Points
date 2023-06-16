@@ -13,10 +13,41 @@
     "Tyranid Warriors with Ranged Bio-weapons": {"points": 70, "models": 3},
     "Tyrant Guard": {"points": 95, "models": 3},
     "Von Ryans Leapers": {"points": 75, "models": 3},
-    "Barbgaunts": {"points": 50, "models": 5}
+    "Barbgaunts": {"points": 50, "models": 5},
+    "Biovores": {"points": 40, "models": 1},
+    "Deathleaper": {"points": 80, "models": 1},
+    "Exocrine": {"points": 135, "models": 1},
+    "Gargoyles": {"points": 75, "models": 10},
+    "Genestealers": {"points": 90, "models": 5},
+    "Hive Guard": {"points": 100, "models": 3},
+    "Mucolid Spores": {"points": 45, "models": 1},
+    "Neurogaunts": {"points": 45, "models": 11},
+    "Psychophage": {"points": 125, "models": 1},
+    "Screamer-Killer": {"points": 180, "models": 1},
+    "Spore Mines": {"points": 50, "models": 3}
 },
 "Space Marines": {
     "Primaris Lieutenant": {"points": 75, "models": 1},
     "Infiltrator Squad": {"points": 90, "models": 5}
+},
+"Adeptus Custodes": {
+    "Aleya": {"points": 80, "models": 1},
+    "Allarus Custodians": {"points": 130, "models": 2},
+    "Anathema Psykana Rhino": {"points": 75, "models": 1},
+    "Blade Champion": {"points": 100, "models": 1},
+    "Custodian Guard": {"points": 180, "models": 4},
+    "Custodian Wardens": {"points": 150, "models": 3},
+    "Knight-Centura": {"points": 75, "models": 1},
+    "Prosecutors": {"points": 40, "models": 4},
+    "Shield Captain": {"points": 120, "models": 1},
+    "Shield-Captain in Allarus Terminator Armour": {"points": 120, "models": 1},
+    "Shield-Captain on Dawneagle Jetbike": {"points": 145, "models": 1},
+    "Trajann Valoris": {"points": 145, "models": 1},
+    "Valerian": {"points": 115, "models": 1},
+    "Venerable Contemptor Dreadnought": {"points": 185, "models": 1},
+    "Venerable Land Raider": {"points": 260, "models": 1},
+    "Vertus Praetors": {"points": 180, "models": 2},
+    "Vigilators": {"points": 60, "models": 4},
+    "Witchseekers": {"points": 60, "models": 4}
 }
 }
